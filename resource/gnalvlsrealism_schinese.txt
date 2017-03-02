@@ -14,7 +14,7 @@
 "Squad_Gnalvl_SquadLeader"		"小队中尉" //Devgru beard
 "Squad_Gnalvl_TeamLeader"		"前线队长" //Devgru beard 2
 "Squad_Gnalvl_Rifleman_AT"		"步枪手(AT)" //SFOD Mask
-"Squad_Gnalvl_Engineer"			"战斗工程师" //US_Marpat Beard face, //Devgru vip
+"Squad_Gnalvl_Engineer"			"战斗工程师" //US_Marpat Beard face，//Devgru vip
 
 "Squad_Gnalvl_Auto"				"自动步枪手" //Generic
 "Squad_Gnalvl_Riflepoint"		"步枪手(定点)" //USMC Black guy
@@ -24,7 +24,7 @@
 "Squad_Gnalvl_ReconMedic"		"医疗专家" //ST3 Generic
 "Squad_Gnalvl_SDM"				"精确射手" //ST3 Generic
 "Squad_Gnalvl_Spotter"			"神射手(侦察)" //ST3 Generic
-"Squad_Gnalvl_Recon_Engineer"			"侦察工程师" //US_Marpat Beard face, //Devgru vip
+"Squad_Gnalvl_Recon_Engineer"			"侦察工程师" //US_Marpat Beard face，//Devgru vip
 
 /////////////////////////AMMO UPGRADE/////////////////// CHARACTER COUNT FOR NEW LINE ~36!!!
 
@@ -65,11 +65,11 @@
 "weapon_upgrade_mk48_prvi_hp_desc"				"Spread Frac(lower = accurate): 0.75\nDmg: 160 @ 1m to 100 @ 381m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 2.07 | PlyrMult: 1.65\nCHEST: 1.97 | PlyrMult: 1.65\nSTOMACH: 1.97 | PlyrMult: 1.35\nARMS: 0.78 | PlyrMult: 0.9\nLEGS: 0.78 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 7.6m of wall\nTravel of 228m passes 3.8m of wall"
 
 
-//Mk18, m4a1 //556x45_car_hp
+//Mk18，m4a1 //556x45_car_hp
 "weapon_upgrade_mk262_10i"					"U.S. Mk262 OTM 10i|556x45_CAR"
 "weapon_upgrade_mk262_10i_desc"			"Spread Frac(lower = accurate): 0.5\nDmg: 85 @ 1m to 46 @ 228m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.7 | PlyrMult: 1.65\nCHEST: 1.6 | PlyrMult: 1.65\nSTOMACH: 1.6 | PlyrMult: 1.35\nARMS: 0.62 | PlyrMult: 0.9\nLEGS: 0.62 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 7.6m of wall\nTravel of 228m passes 2.9m of wall"
 
-//mk18, m4a1 //556x45_car_ap
+//mk18，m4a1 //556x45_car_ap
 "weapon_upgrade_m995_car"					"U.S. M995 AP CAR|556x45_CAR"
 "weapon_upgrade_m995_car_desc"				"Spread Frac(lower = accurate): 1.5\nDmg: 85 @ 1m to 46 @ 228m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 2.5 | PlyrMult: 1.65\nCHEST: 2.4 | PlyrMult: 1.65\nSTOMACH: 2.4 | PlyrMult: 1.35\nARMS: 0.22 | PlyrMult: 0.9\nLEGS: 0.22 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 7.6m of wall\nTravel of 228m passes 2.9m of wall"
 
@@ -144,15 +144,15 @@
 "weapon_upgrade_m993_bolt_desc"				"Spread Frac(lower = accurate): 0.88\nDmg: 200 @ 1m to 120 @ 381m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 6.4 | PlyrMult: 1.65\nCHEST: 6.3 | PlyrMult: 1.65\nSTOMACH: 6.3 | PlyrMult: 1.35\nARMS: 1.00 | PlyrMult: 0.9\nLEGS: 1.00 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 40m of wall\nTravel of 381m passes 20.1m of wall"
 
 
-//akm, sks //762x39_lc
+//akm，sks //762x39_lc
 "weapon_upgrade_m67"					"Yugo M67 FMJ|762x39_LC"
 "weapon_upgrade_m67_desc"				"Spread Frac(lower = accurate): 0.83\nDmg: 110 @ 1m to 71 @ 240m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 2.07 | PlyrMult: 1.65\nCHEST: 1.97 | PlyrMult: 1.65\nSTOMACH: 1.97 | PlyrMult: 1.35\nARMS: 0.78 | PlyrMult: 0.9\nLEGS: 0.78 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 18.1m of wall\nTravel of 228m passes 8.5m of wall"
 
-//akm, vz58, sks //762x39_AP
+//akm，vz58，sks //762x39_AP
 "weapon_upgrade_7n23"					"R.U. 7N23 AP|762x39"
 "weapon_upgrade_7n23_desc"				"Spread Frac(lower = accurate): 0.88\nDmg: 110 @ 1m to 85 @ 228m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 2.67 | PlyrMult: 1.65\nCHEST: 2.57 | PlyrMult: 1.65\nSTOMACH: 2.57 | PlyrMult: 1.35\nARMS: 0.38 | PlyrMult: 0.9\nLEGS: 0.38 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 19m of wall\nTravel of 228m passes 9.5m of wall"
 
-//akm, vz58, sks //762x39_HP
+//akm，vz58，sks //762x39_HP
 "weapon_upgrade_8m3"					"Saspan 8M3 JHP|762x39"
 "weapon_upgrade_8m3_desc"				"Spread Frac(lower = accurate): 0.67\nDmg: 110 @ 1m to 85 @ 228m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.97 | PlyrMult: 1.65\nCHEST: 1.87 | PlyrMult: 1.65\nSTOMACH: 1.87 | PlyrMult: 1.35\nARMS: 0.78 | PlyrMult: 0.9\nLEGS: 0.78 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 8.5m of wall\nTravel of 228m passes 4.8m of wall"
 
@@ -178,11 +178,11 @@
 "weapon_upgrade_rpk74m_545sp_desc"				"Spread Frac(lower = accurate): 0.7\nDmg: 85 @ 1m to 85 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.55 | PlyrMult: 1.65\nCHEST: 1.45 | PlyrMult: 1.65\nSTOMACH: 1.32 | PlyrMult: 1.35\nARMS: 0.72 | PlyrMult: 0.9\nLEGS: 0.72 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 3.8m of wall\nTravel of 152m passes 2.9m of wall"
 
 
-//ak74, aks74u //545x39_hp
+//ak74，aks74u //545x39_hp
 "weapon_upgrade_545sp"					"Barnaul 55gr JSP|545x39"
 "weapon_upgrade_545sp_desc"				"Spread Frac(lower = accurate): 0.7\nDmg: 85 @ 1m to 85 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.55 | PlyrMult: 1.65\nCHEST: 1.45 | PlyrMult: 1.65\nSTOMACH: 1.32 | PlyrMult: 1.35\nARMS: 0.72 | PlyrMult: 0.9\nLEGS: 0.72 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 3.8m of wall\nTravel of 152m passes 2.9m of wall"
 
-//ak74, aks74u //545x39_ap
+//ak74，aks74u //545x39_ap
 "weapon_upgrade_7n34"					"R.U. 7N34 AP|545x39"
 "weapon_upgrade_7n34_desc"				"Spread Frac(lower = accurate): 0.88\nDmg: 85 @ 1m to 85 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 2.35 | PlyrMult: 1.65\nCHEST: 2.25 | PlyrMult: 1.65\nSTOMACH: 2.25 | PlyrMult: 1.35\nARMS: 0.32 | PlyrMult: 0.9\nLEGS: 0.32 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 9.5m of wall\nTravel of 152m passes 4.8m of wall"
 
@@ -211,19 +211,19 @@
 "weapon_upgrade_cz148_svd_desc"				"Spread Frac(lower = accurate): 0.28\nDmg: 200 @ 1m to 120 @ 381m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 5.5 | PlyrMult: 1.65\nCHEST: 5.4 | PlyrMult: 1.65\nSTOMACH: 5.4 | PlyrMult: 1.35\nARMS: 1.8 | PlyrMult: 0.9\nLEGS: 1.8 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 19m of wall\nTravel of 381m passes 9.5m of wall"
 
 
-//mp5, mp40 //9x19_ap
+//mp5，mp40 //9x19_ap
 "weapon_upgrade_smg_9vbr"					"VBR 6.3mm AP|9x19"
 "weapon_upgrade_smg_9vbr_desc"				"Spread Frac(lower = accurate): 0.0\nDmg: 80 @ 1m to 52 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.45 | PlyrMult: 1.65\nCHEST: 1.35 | PlyrMult: 1.65\nSTOMACH: 1.35 | PlyrMult: 1.35\nARMS: 0.45 | PlyrMult: 0.9\nLEGS: 0.45 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 10m of wall\nTravel of 152m passes 3.8m of wall"
 
-//mp5, mp40 //9x19_hp
+//mp5，mp40 //9x19_hp
 "weapon_upgrade_smg_9mmhp"					"147gr JHP|9x19"
 "weapon_upgrade_smg_9mmhp_desc"				"Spread Frac(lower = accurate): 0.0\nDmg: 80 @ 1m to 52 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.05 | PlyrMult: 1.65\nCHEST: 0.95 | PlyrMult: 1.65\nSTOMACH: 0.95 | PlyrMult: 1.35\nARMS: 0.65 | PlyrMult: 0.9\nLEGS: 0.65 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 3.3m of wall\nTravel of 152m passes 1.4m of wall"
 
-//M9, m93r, makarov //9x19_ap
+//M9，m93r，makarov //9x19_ap
 "weapon_upgrade_9vbr"					"VBR 6.3mm AP|9x19"
 "weapon_upgrade_9vbr_desc"				"Spread Frac(lower = accurate): 0.0\nDmg: 80 @ 1m to 52 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.45 | PlyrMult: 1.65\nCHEST: 1.35 | PlyrMult: 1.65\nSTOMACH: 1.35 | PlyrMult: 1.35\nARMS: 0.45 | PlyrMult: 0.9\nLEGS: 0.45 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 10m of wall\nTravel of 152m passes 3.8m of wall"
 
-//M9, m93r, makarov //9x19_hp
+//M9，m93r，makarov //9x19_hp
 "weapon_upgrade_9mmhp"					"147gr JHP|9x19"
 "weapon_upgrade_9mmhp_desc"				"Spread Frac(lower = accurate): 0.0\nDmg: 80 @ 1m to 52 @ 152m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.05 | PlyrMult: 1.65\nCHEST: 0.95 | PlyrMult: 1.65\nSTOMACH: 0.95 | PlyrMult: 1.35\nARMS: 0.65 | PlyrMult: 0.9\nLEGS: 0.65 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1m passes 3.3m of wall\nTravel of 152m passes 1.4m of wall"
 
@@ -290,7 +290,7 @@
 
 //Nothing
 "weapon_upgrade_9vbr_ins"				"S.E. M39/b AP"
-"weapon_upgrade_9vbr_desc_ins"			"Swedish armor-piercing ammo developed in the 40's, it developed a cop-killer reputation in the U.S. and was outlawed."
+"weapon_upgrade_9vbr_desc_ins"			"Swedish armor-piercing ammo developed in the 40's，it developed a cop-killer reputation in the U.S. and was outlawed."
 
 //m1a1 762x33_hp
 "weapon_upgrade_30car_hp"				".30 Carbine 110gr JSP|762x33"
@@ -310,7 +310,7 @@
 "weapon_upgrade_tacbuck_desc"			"Pellet Spread: 0.6\nDmg: 100 @ 15m to 25 @ 172m\nAmmo/Plyr Mult. (Dmg * Am * Pm):\nHEAD: 1.9 | PlyrMult: 1.65\nCHEST: 1.8 | PlyrMult: 1.65\nSTOMACH: 1.8 | PlyrMult: 1.35\nARMS: 0.8 | PlyrMult: 0.9\nLEGS: 0.8 | PlyrMult: 0.8\nPenetration Power(Mat. alters depth):\nTravel of 1.9m passes 2.9m of wall\nTravel of 152m passes <1m of wall"
 
 "weapon_upgrade_ctrlbuck"				"Flite Control"
-"weapon_upgrade_ctrlbuck_desc"			"Notorious for its extremely tight patterning, this load by Federal Premium spreads less than 0.2 inch per yard."
+"weapon_upgrade_ctrlbuck_desc"			"Notorious for its extremely tight patterning，this load by Federal Premium spreads less than 0.2 inch per yard."
 
 
 ////////////////////Weapon Attachment Upgrades//////////////////
@@ -350,210 +350,210 @@
 
 //////////////////////SHOTGUNS///////////
 "weapon_m590"				"M590"
-"weapon_m590_desc"			"RPM: Pump | Weight: 38 Hg\nCaliber: Buckshot | Modes: Pump\nStandard Capacity: 8+1"
+"weapon_m590_desc"			"射速: Pump | 重量: 38 千克\n口径: Buckshot | 射击模式: Pump\nStandard Capacity: 8+1"
 
 "weapon_nova"				"NOVA TACTICAL"
-"weapon_nova_desc"			"Pump/Rel Speed: +15% | Weight: 33 Hg\nCaliber: Buckshot | Modes: Pump\nStandard Capacity: 5+1"
+"weapon_nova_desc"			"Pump/Rel Speed: +15% | 重量: 33 千克\n口径: Buckshot | 射击模式: Pump\nStandard Capacity: 5+1"
 
 "weapon_toz"				"TOZ"
-"weapon_toz_desc"			"RPM: Pump | Weight: 28 Hg\nCaliber: Buckshot | Modes: Pump\nStandard Capacity: 6+1"
+"weapon_toz_desc"			"射速: Pump | 重量: 28 千克\n口径: Buckshot | 射击模式: Pump\nStandard Capacity: 6+1"
 "weapon_spas12_dy"				"SPAS-12"
-"weapon_spas12_dy_desc"		"RPM: 100 | Weight: 42 Hg\nCaliber: Buckshot | Modes: Semi, Pump\nStandard Capacity: 8+1"
+"weapon_spas12_dy_desc"		"射速: 100 | 重量: 42 千克\n口径: Buckshot | 射击模式: 半自动，Pump\nStandard Capacity: 8+1"
 "weapon_ksg_dy"				"KEL-TEC KSG"
-"weapon_ksg_dy_desc"		"RPM: Pump | Weight: 33 Hg\nCaliber: Buckshot | Modes: Pump\nStandard Capacity: 14+1"
+"weapon_ksg_dy_desc"		"射速: Pump | 重量: 33 千克\n口径: Buckshot | 射击模式: Pump\nStandard Capacity: 14+1"
 /////////////////RIFLES//////////////
 "weapon_galil_dy"				"GALIL"
-"weapon_galil_dy_desc"			"RPM: 650 | Weight: 43 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_galil_dy_desc"			"射速: 650 | 重量: 43 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_akmg"				"AKMS"
-"weapon_akmg_desc"			"RPM: 600 | Weight: 38 Hg\nCaliber: 762x39 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_akmg_desc"			"射速: 600 | 重量: 38 千克\n口径: 762x39 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_ak74"				"AK-74"
-"weapon_ak74_desc"			"RPM: 650 | Weight: 40 Hg\nCaliber: 545x39 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_ak74_desc"			"射速: 650 | 重量: 40 千克\n口径: 545x39 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_vz58"				"VZ. 58"
-"weapon_vz58_desc"			"RPM: 800 | Weight: 29 Hg\nCaliber: 762x39 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_vz58_desc"			"射速: 800 | 重量: 29 千克\n口径: 762x39 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_saiga12"				"Saiga-12"
-"weapon_saiga12_desc"			"RPM: 600 | Weight: 36 Hg\nCaliber: Buckshot | Modes: Semi, Full\nStandard Magazine Capacity: 8"
+"weapon_saiga12_desc"			"射速: 600 | 重量: 36 千克\n口径: Buckshot | 射击模式: 半自动，全自动\n默认弹容量: 8"
 "weapon_m4a1"				"M4A1"
-"weapon_m4a1_desc"			"RPM: 740 | Weight: 36 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_m4a1_desc"			"射速: 740 | 重量: 36 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_m16g"				"M16A4"
-"weapon_m16g_desc"			"RPM: 780 | Weight: 40 Hg\nCaliber: 556x45 | Modes: Semi, Burst\nStandard Magazine Capacity: 30"
+"weapon_m16g_desc"			"射速: 780 | 重量: 40 千克\n口径: 556x45 | 射击模式: 半自动，连发点射\n默认弹容量: 30"
 "weapon_mk18g"				"Mk18"
-"weapon_mk18g_desc"			"RPM: 950 | Weight: 34 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_mk18g_desc"			"射速: 950 | 重量: 34 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_mk14g"				"Mk14"
-"weapon_mk14g_desc"			"RPM: 710 | Weight: 63 Hg\nCaliber: 762x51 | Modes: Semi, Full\nStandard Magazine Capacity: 20"
+"weapon_mk14g_desc"			"射速: 710 | 重量: 63 千克\n口径: 762x51 | 射击模式: 半自动，全自动\n默认弹容量: 20"
 "weapon_m107"				"M107"
-"weapon_m107_desc"			"RPM: 240 | Weight: 144 Hg\nCaliber: .50 BMG | Modes: Semi\nStandard Magazine Capacity: 11"
+"weapon_m107_desc"			"射速: 240 | 重量: 144 千克\n口径: .50 BMG | 射击模式: 半自动\n默认弹容量: 11"
 "weapon_falg"				"FAL"
-"weapon_falg_desc"			"RPM: 750 | Weight: 46 Hg\nCaliber: 762x51 | Modes: Semi, Full\nStandard Magazine Capacity: 20"
+"weapon_falg_desc"			"射速: 750 | 重量: 46 千克\n口径: 762x51 | 射击模式: 半自动，全自动\n默认弹容量: 20"
 "weapon_l1a1g"				"L1A1"
-"weapon_l1a1g_desc"			"RPM: 600 | Weight: 48 Hg\nCaliber: 762x51 | Modes: Semi\nStandard Magazine Capacity: 20"
+"weapon_l1a1g_desc"			"射速: 600 | 重量: 48 千克\n口径: 762x51 | 射击模式: 半自动\n默认弹容量: 20"
 "weapon_acr_dy"				"ACR"
-"weapon_acr_dy_desc"			"RPM: 800 | Weight: 42 Hg\nCaliber: 556x45 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_acr_dy_desc"			"射速: 800 | 重量: 42 千克\n口径: 556x45 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 
 "weapon_ak12u_dy"				"AK12u Carbine"
-"weapon_ak12u_dy_desc"			"RPM: 680 | Weight: 32 Hg\nCaliber: 545x39 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_ak12u_dy_desc"			"射速: 680 | 重量: 32 千克\n口径: 545x39 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_g3a3_dy"				"G3A3"
-"weapon_g3a3_dy_desc"			"RPM: 600 | Weight: 44 Hg\nCaliber: 762x51 | Modes: Semi, Full\nStandard Magazine Capacity: 20"
+"weapon_g3a3_dy_desc"			"射速: 600 | 重量: 44 千克\n口径: 762x51 | 射击模式: 半自动，全自动\n默认弹容量: 20"
 
 "weapon_scarl_dy"				"SCAR-L"
-"weapon_scarl_dy_desc"			"RPM: 625 | Weight: 33 Hg\nCaliber: 556x45 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_scarl_dy_desc"			"射速: 625 | 重量: 33 千克\n口径: 556x45 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_scar_mk20_dy"				"SSR"
-"weapon_scar_mk20_dy_desc"			"RPM: 625 | Weight: 52 Hg\nCaliber: 762x51 | Modes: Semi\nStandard Magazine Capacity: 20"
+"weapon_scar_mk20_dy_desc"			"射速: 625 | 重量: 52 千克\n口径: 762x51 | 射击模式: 半自动\n默认弹容量: 20"
 "weapon_rfb_dy"				"KEL-TEC RFB"
-"weapon_rfb_dy_desc"			"RPM: 260 | Weight: 56 Hg\nCaliber: 762x51 | Modes: Semi\nStandard Magazine Capacity: 20"
+"weapon_rfb_dy_desc"			"射速: 260 | 重量: 56 千克\n口径: 762x51 | 射击模式: 半自动\n默认弹容量: 20"
 "weapon_sig553_dy"				"SIG SG 553"
-"weapon_sig553_dy_desc"			"RPM: 700 | Weight: 34 Hg\nCaliber: 556x45 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_sig553_dy_desc"			"射速: 700 | 重量: 34 千克\n口径: 556x45 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_g36_dy"				"G36C"
-"weapon_g36_dy_desc"			"RPM: 750 | Weight: 30 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_g36_dy_desc"			"射速: 750 | 重量: 30 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_famas_dy"				"FAMAS"
-"weapon_famas_dy_desc"			"RPM: 1000 | Weight: 38 Hg\nCaliber: 556x45 | Modes: Semi, Full\nStandard Magazine Capacity: 25"
+"weapon_famas_dy_desc"			"射速: 1000 | 重量: 38 千克\n口径: 556x45 | 射击模式: 半自动，全自动\n默认弹容量: 25"
 "weapon_f2000_dy"				"F2000"
-"weapon_f2000_dy_desc"			"RPM: 850 | Weight: 38 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_f2000_dy_desc"			"射速: 850 | 重量: 38 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_sa80"				"L85A2"
-"weapon_sa80_desc"			"RPM: 650 | Weight: 50 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_sa80_desc"			"射速: 650 | 重量: 50 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_mk18_m0"				"Mk18 Mod 0"
-"weapon_mk18_m0_desc"			"RPM: 950 | Weight: 34 Hg\nCaliber: 556x45c | Modes: Semi, Full\nStandard Magazine Capacity: 20"
+"weapon_mk18_m0_desc"			"射速: 950 | 重量: 34 千克\n口径: 556x45c | 射击模式: 半自动，全自动\n默认弹容量: 20"
 
 "weapon_aug3"				"AUG3"
-"weapon_aug3_desc"			"RPM: 750 | Weight: 36 Hg\nCaliber: 556x45 | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 30"
+"weapon_aug3_desc"			"射速: 750 | 重量: 36 千克\n口径: 556x45 | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 30"
 
 ///////////SNIPER RIFLES//////////////
 "weapon_sksg"				"SKS-D"
-"weapon_sksg_desc"			"RPM: 600 | Weight: 48 Hg\nCaliber: 762x39 | Modes: Semi\nStandard Magazine Capacity: 30"
+"weapon_sksg_desc"			"射速: 600 | 重量: 48 千克\n口径: 762x39 | 射击模式: 半自动\n默认弹容量: 30"
 "weapon_ac556"				"AC-556"
-"weapon_ac556_desc"			"RPM: 775 | Weight: 29 Hg\nCaliber: 556x45i | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_ac556_desc"			"射速: 775 | 重量: 29 千克\n口径: 556x45i | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_mosing"				"MOSIN"
-"weapon_mosing_desc"		"RPM: Bolt | Weight: 42 Hg\nCaliber: 762x54mm | Modes: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
+"weapon_mosing_desc"		"射速: Bolt | 重量: 42 千克\n口径: 762x54mm | 射击模式: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
 "weapon_m40a1g"				"M40A1"
-"weapon_m40a1g_desc"		"Bolt-Speed: +10% | Weight: 68 Hg\nCaliber: 762x51mm | Modes: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
+"weapon_m40a1g_desc"		"Bolt-Speed: +10% | 重量: 68 千克\n口径: 762x51mm | 射击模式: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
 "weapon_m1a1g"				"M1A1"
-"weapon_m1a1g_desc"			"RPM: 600 | Weight: 26 Hg\nCaliber: 762x33 | Modes: Semi\nStandard Magazine Capacity: 15"
+"weapon_m1a1g_desc"			"射速: 600 | 重量: 26 千克\n口径: 762x33 | 射击模式: 半自动\n默认弹容量: 15"
 "weapon_m40a5_dy"			"M40A5"
-"weapon_m40a5_dy_desc"		"Bolt-Speed: +15% | Weight: 72 Hg\nCaliber: 762x51mm | Modes: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
+"weapon_m40a5_dy_desc"		"Bolt-Speed: +15% | 重量: 72 千克\n口径: 762x51mm | 射击模式: Bolt\nStandard Capacity: 5+30 Tac. Pouch"
 "weapon_svdg"				"DRAGUNOV SVD"
-"weapon_svdg_desc"			"RPM: 480 | Weight: 50 Hg\nCaliber: 762x54mm | Modes: Semi\nStandard Magazine Capacity: 10"
+"weapon_svdg_desc"			"射速: 480 | 重量: 50 千克\n口径: 762x54mm | 射击模式: 半自动\n默认弹容量: 10"
 
 /////////////////LMGS//////////////
 "weapon_rpkg"				"RPK"
-"weapon_rpkg_desc"			"RPM: 600 | Weight: 84 Hg\nCaliber: 762x39 | Modes: Semi, Full\nStandard Magazine Capacity: 75"
+"weapon_rpkg_desc"			"射速: 600 | 重量: 84 千克\n口径: 762x39 | 射击模式: 半自动，全自动\n默认弹容量: 75"
 "weapon_m249g"				"M249"
-"weapon_m249g_desc"			"RPM: 800 | Weight: 122 Hg\nCaliber: 556x45 | Modes: Full\nStandard Magazine Capacity: 200"
+"weapon_m249g_desc"			"射速: 800 | 重量: 122 千克\n口径: 556x45 | 射击模式: Full\n默认弹容量: 200"
 "weapon_mk46g"				"MK46 Mod 0"
-"weapon_mk46g_desc"			"RPM: 730 | Weight: 93 Hg\nCaliber: 556x45 | Modes: Full\nStandard Magazine Capacity: 150"
+"weapon_mk46g_desc"			"射速: 730 | 重量: 93 千克\n口径: 556x45 | 射击模式: Full\n默认弹容量: 150"
 "weapon_mk48g"				"MK48 Mod 0"
-"weapon_mk48g_desc"			"RPM: 710 | Weight: 142 Hg\nCaliber: 762x51 | Modes: Full\nStandard Magazine Capacity: 100"
+"weapon_mk48g_desc"			"射速: 710 | 重量: 142 千克\n口径: 762x51 | 射击模式: Full\n默认弹容量: 100"
 "weapon_m60"				"M60"
-"weapon_m60_desc"			"RPM: 650 | Weight: 160 Hg\nCaliber: 762x51 | Modes: Full\nStandard Magazine Capacity: 100"
+"weapon_m60_desc"			"射速: 650 | 重量: 160 千克\n口径: 762x51 | 射击模式: Full\n默认弹容量: 100"
 "weapon_rpk74m_dy"				"RPK74M"
-"weapon_rpk74m_dy_desc"			"Draw: +10% | RPM: 650 | Weight: 74 Hg\nCaliber: 545x39 | Modes: Semi, Full\nStandard Magazine Capacity: 75"
+"weapon_rpk74m_dy_desc"			"切换时间增益: +10% | 射速: 650 | 重量: 74 千克\n口径: 545x39 | 射击模式: 半自动，全自动\n默认弹容量: 75"
 
 
 
 //////////////SMGS/////////////
 "weapon_mp7_dy"				"MP7"
-"weapon_mp7_dy_desc"		"RPM: 950 | Weight: 21 Hg\nCaliber: 45acp | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_mp7_dy_desc"		"射速: 950 | 重量: 21 千克\n口径: 45acp | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_mac10_dy"				"MAC-10"
-"weapon_mac10_dy_desc"		"RPM: 1090 | Weight: 30 Hg\nCaliber: 9mm | Modes: Full\nStandard Magazine Capacity: 30"
+"weapon_mac10_dy_desc"		"射速: 1090 | 重量: 30 千克\n口径: 9mm | 射击模式: Full\n默认弹容量: 30"
 "weapon_uzi_dy"				"IMI UZI"
-"weapon_uzi_dy_desc"		"RPM: 600 | Weight: 30 Hg\nCaliber: 9mm | Modes: Semi, Full\nStandard Magazine Capacity: 32"
+"weapon_uzi_dy_desc"		"射速: 600 | 重量: 30 千克\n口径: 9mm | 射击模式: 半自动，全自动\n默认弹容量: 32"
 "weapon_aks74ug"			"AKS-74U"
-"weapon_aks74ug_desc"		"RPM: 700 | Weight: 32 Hg\nCaliber: 545x39 | Modes: Semi, Full\nStandard Magazine Capacity: 30"
+"weapon_aks74ug_desc"		"射速: 700 | 重量: 32 千克\n口径: 545x39 | 射击模式: 半自动，全自动\n默认弹容量: 30"
 "weapon_mp5g"				"MP5K"
-"weapon_mp5g_desc"			"Draw: +15% | RPM: 900 | Weight: 23 Hg\nCaliber: 9mm | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 30"
+"weapon_mp5g_desc"			"切换时间增益: +15% | 射速: 900 | 重量: 23 千克\n口径: 9mm | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 30"
 "weapon_ster_dy"				"Sterling"
-"weapon_ster_dy_desc"			"Draw: +15% | RPM: 600 | Weight: 31 Hg\nCaliber: 9mm | Modes: Full\nStandard Magazine Capacity: 34"
+"weapon_ster_dy_desc"			"切换时间增益: +15% | 射速: 600 | 重量: 31 千克\n口径: 9mm | 射击模式: Full\n默认弹容量: 34"
 "weapon_mp40g"				"MP40"
-"weapon_mp40g_desc"			"Draw: +15% | RPM: 550 | Weight: 36 Hg\nCaliber: 9mm | Modes: Full\nStandard Magazine Capacity: 32"
+"weapon_mp40g_desc"			"切换时间增益: +15% | 射速: 550 | 重量: 36 千克\n口径: 9mm | 射击模式: Full\n默认弹容量: 32"
 "weapon_umpg"				"UMP-45"
-"weapon_umpg_desc"			"RPM: 600 | Weight: 28 Hg\nCaliber: 45acp | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 25"
+"weapon_umpg_desc"			"射速: 600 | 重量: 28 千克\n口径: 45acp | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 25"
 "weapon_mp5a4_dy"				"MP5A4"
-"weapon_mp5a4_dy_desc"			"Draw: +15% | RPM: 850 | Weight: 32 Hg\nCaliber: 9mm | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 30"
+"weapon_mp5a4_dy_desc"			"切换时间增益: +15% | 射速: 850 | 重量: 32 千克\n口径: 9mm | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 30"
 "weapon_kriss"				"KRISS Vector"
-"weapon_kriss_desc"			"RPM: 1200 | Weight: 28 Hg\nCaliber: 45acp | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 30"
+"weapon_kriss_desc"			"射速: 1200 | 重量: 28 千克\n口径: 45acp | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 30"
 "weapon_czse3g"				"CZ SCORPION EVO-3"
-"weapon_czse3g_desc"			"RPM: 1150 | Weight: 28 Hg\nCaliber: 9mm | Modes: Semi, Burst, Full\nStandard Magazine Capacity: 30"
+"weapon_czse3g_desc"			"射速: 1150 | 重量: 28 千克\n口径: 9mm | 射击模式: 半自动，连发点射，全自动\n默认弹容量: 30"
 
 ////////////////PISTOLS//////////
-"weapon_m45_dy"				"M45 MEUSOC"
-"weapon_m45_dy_desc"			"RPM: 600 | Weight: 16 Hg\nCaliber: 45acp | Modes: Semi\nStandard Magazine Capacity: 9"
+"weapon_m45_dy"				"M45 MEUSOC手枪"
+"weapon_m45_dy_desc"			"射速: 600 | 重量: 1.6千克\n口径: 45acp | 射击模式: 半自动\n默认弹容量: 9"
 
-"weapon_makarov_dy"				"Makarov"
-"weapon_makarov_dy_desc"		"RPM: 700 | Weight: 9 Hg\nCaliber: 9mm | Modes: Semi\nStandard Magazine Capacity: 10"
+"weapon_makarov_dy"				"马卡洛夫手枪"
+"weapon_makarov_dy_desc"		"射速: 700 | 重量: 0.9千克\n口径: 9mm | 射击模式: 半自动\n默认弹容量: 10"
 
-"weapon_m93"				"m93r"
-"weapon_m93_desc"			"RPM: 1100 | Weight: 16 Hg\nCaliber: 9mm | Modes: Semi, Burst\nStandard Magazine Capacity: 18"
+"weapon_m93"				"m93r手枪"
+"weapon_m93_desc"			"射速: 1100 | 重量: 1.6千克\n口径: 9mm | 射击模式: 半自动，连发点射\n默认弹容量: 18"
 
-"weapon_glock18"				"GLOCK 18"
-"weapon_glock18_desc"			"RPM: 700 | Weight: 8 Hg\nCaliber: 9mm | Modes: Semi, Full\nStandard Magazine Capacity: 15"
+"weapon_glock18"				"GLOCK 18手枪"
+"weapon_glock18_desc"			"射速: 700 | 重量: 0.8千克\n口径: 9mm | 射击模式: 半自动，全自动\n默认弹容量: 15"
 
-"weapon_usp"				"HK USP"
-"weapon_usp_desc"			"RPM: 600 | Weight: 10 Hg\nCaliber: 45acp | Modes: Semi\nStandard Magazine Capacity: 12"
+"weapon_usp"				"HK USP手枪"
+"weapon_usp_desc"			"射速: 600 | 重量: 1千克\n口径: 45acp | 射击模式: 半自动\n默认弹容量: 12"
 
-"weapon_model10_dy"				"MODEL 10"
-"weapon_model10_dy_desc"			"Draw: +20% | RPM: 380 | Weight: 12 Hg\nCaliber: 38special | Modes: Semi\nStandard Magazine Capacity: 6"
+"weapon_model10_dy"				"军警十型左轮手枪"
+"weapon_model10_dy_desc"			"切换时间增益: +20% | 射速: 380 | 重量: 1.2千克\n口径: 38special | 射击模式: 半自动\n默认弹容量: 6"
 
-"weapon_mr96_dy"				"Manurhin MR 96"
-"weapon_mr96_dy_desc"			"Draw: +20% | RPM: 320 | Weight: 16 Hg\nCaliber: 357sw | Modes: Semi\nStandard Magazine Capacity: 6"
-"weapon_deagle_dy"				"IMI 沙漠之鹰"
-"weapon_deagle_dy_desc"			"RPM: 360 | Weight: 22 Hg\nCaliber: 50ae | Modes: Semi\nStandard Magazine Capacity: 7"
+"weapon_mr96_dy"				"马努汉MR 96左轮手枪"
+"weapon_mr96_dy_desc"			"切换时间增益: +20% | 射速: 320 | 重量: 1.6千克\n口径: 357sw | 射击模式: 半自动\n默认弹容量: 6"
+"weapon_deagle_dy"				"IMI 沙漠之鹰手枪"
+"weapon_deagle_dy_desc"			"射速: 360 | 重量: 2.2千克\n口径: 50ae | 射击模式: 半自动\n默认弹容量: 7"
 
-"weapon_kingcobra_dy"				"COLT King Cobra"
-"weapon_kingcobra_dy_desc"			"Draw: +20% | RPM: 320 | Weight: 14 Hg\nCaliber: 357sw | Modes: Semi\nStandard Magazine Capacity: 6"
+"weapon_kingcobra_dy"				"柯尔特眼镜蛇左轮手枪"
+"weapon_kingcobra_dy_desc"			"切换时间增益: +20% | 射速: 320 | 重量: 1.4千克\n口径: 357sw | 射击模式: 半自动\n默认弹容量: 6"
   
 ////////////////EXPLOSIVES//////////////
 "weapon_f1g"				"F1 手雷"
-"weapon_f1g_desc"			"WWII-era defensive grenade with a wider lethal radius and correspondingly high chance of collateral damage."
+"weapon_f1g_desc"			"二战时期的自卫用手榴弹，具有更大的杀伤半径，额外伤害几率也相应更高"
 "weapon_m67g"				"M67 手雷"
-"weapon_m67g_desc"			"Det Dmg(less at max radius): 160\nMax Det Radius: 14m\nWeight: 5Hg/1.1lbs"
+"weapon_m67g_desc"			"爆炸伤害(从最高半径衰减): 160\n最高爆炸半径: 14m\n重量: 5千克/1.1磅"
 "weapon_m84_dy"				"M84 手雷"
-"weapon_m84_dy_desc"		"Blind Dur: Max 6sec.|Rad: 29m\nBlind: Yes|Deafen: Yes\nWeight: 3Hg/0.6lbs"
+"weapon_m84_dy_desc"		"致盲持续时间: 最高6秒|半径：29m\n致盲: 是 | 致聋: 是\n重量: 3千克/0.6磅"
 "weapon_stungrenMK3"		"MK3 闪光震撼弹"
-"weapon_stungrenMK3_desc"		"Stun Dur: Max 6sec.|Rad: 19m\nBlind: No|Deafen: Yes\nWeight: 3Hg/0.6lbs"
+"weapon_stungrenMK3_desc"		"效果持续时间: 最高6秒 | 半径：19m\n致盲: 否 | 致聋: 是\n重量: 3千克/0.6磅"
 "weapon_anm14_dy"			"AN-M14 燃烧弹"
-"weapon_anm14_dy_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 24sec.\nWeight: 10Hg/2.2lbs"
+"weapon_anm14_dy_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 24秒\n重量: 1千克/2.2磅"
 "weapon_molotov_dy"			"莫洛托夫燃烧瓶"
-"weapon_molotov_dy_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 4-5m | Dur: 24sec.\nWeight: 14Hg/3lbs"
-"weapon_c4_dy"			"C4"
-"weapon_c4_dy_desc"		"Det Dmg(less at max radius): 304\nMax Det Radius: 18m/4.5m walls\nWeight: 55Hg/12lbs"
+"weapon_molotov_dy_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 4-5m | 持续时间: 24秒\n重量: 1.4千克/3磅"
+"weapon_c4_dy"			"C4炸药"
+"weapon_c4_dy_desc"		"爆炸伤害(从最高半径衰减): 304\n最高爆炸半径: 18m/穿透半径: 4.5m\n重量: 5.5千克/12磅"
 //Underbarrels
 //m203
 "weapon_m203_dy_he"				"M203 榴弹"
-"weapon_m203_dy_he_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 14Hg/3lbs"
+"weapon_m203_dy_he_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.4千克/3磅"
 "weapon_m203_incen"				"M203 燃烧弹"
-"weapon_m203_incen_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 16Hg/3.5lbs"
+"weapon_m203_incen_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.6千克/3.5磅"
 "weapon_m203_dy_smoke"			"M203 烟雾弹"
-"weapon_m203_dy_smoke_desc"		"Provides Smokescreen on impact.\nArm time: 120ms\nRecoil reduction: Vertical: 5%\nWeight: 14Hg/3lbs"
+"weapon_m203_dy_smoke_desc"		"放出烟雾掩护\n扩散用时: 0.12秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.4千克/3磅"
 "weapon_m203_stungrenMK3"		"M203 闪光震撼弹"
-"weapon_m203_stungrenMK3_desc"	"Stun Dur: Max 6sec.|Stun Rad: 19m\nBlind: No|Deafen: Yes\nRecoil reduction: Vertical: 5%\nWeight: 16Hg/3.5lbs"
+"weapon_m203_stungrenMK3_desc"	"效果持续时间: 最高6秒 | 效果半径：19m\n致盲: 否 | 致聋: 是\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.6千克/3.5磅"
 //GP25
 "weapon_gp25_dy_he"				"GP-25 榴弹"
-"weapon_gp25_dy_he_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 14Hg/3lbs"
+"weapon_gp25_dy_he_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.4千克/3磅"
 "weapon_gp25_incen"				"GP-25 燃烧弹"
-"weapon_gp25_incen_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 16Hg/3.5lbs"
+"weapon_gp25_incen_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.6千克/3.5磅"
 "weapon_gp25_dy_smoke"			"GP-25 烟雾弹"
-"weapon_gp25_dy_smoke_desc"		"Provides Smokescreen on impact.\nArm time: 120ms\nRecoil reduction: Vertical: 5%\nWeight: 14Hg/3lbs"
+"weapon_gp25_dy_smoke_desc"		"放出烟雾掩护\n扩散用时: 0.12秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.4千克/3磅"
 "weapon_gp25_stungrenMK3"		"GP-25 闪光震撼弹"
-"weapon_gp25_stungrenMK3_desc"	"Stun Dur: Max 6sec.|Stun Rad: 19m\nBlind: No|Deafen: Yes\nRecoil reduction: Vertical: 5%\nWeight: 16Hg/3.5lbs"
+"weapon_gp25_stungrenMK3_desc"	"效果持续时间: 最高6秒 | 效果半径：19m\n致盲: 否 | 致聋: 是\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.6千克/3.5磅"
 //m320
 "weapon_m320_dy_he"				"M320 榴弹"
-"weapon_m320_dy_he_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 15Hg/3.3lbs"
+"weapon_m320_dy_he_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.5千克/3.3磅"
 "weapon_m320_incen"				"M320 燃烧弹"
-"weapon_m320_incen_desc"		"Det Dmg: 100|Det Rad: 4.5m\nBurn Rad: 2-3m | Dur: 16sec.\nRecoil reduction: Vertical: 5%\nWeight: 17Hg/3.7lbs"
+"weapon_m320_incen_desc"		"爆炸伤害: 100 | 爆炸半径: 4.5m\n燃烧半径: 2-3m | 持续时间: 16秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.7千克/3.7磅"
 "weapon_m320_dy_smoke"			"M320 烟雾弹"
-"weapon_m320_dy_smoke_desc"		"Provides Smokescreen on impact.\nArm time: 120ms\nRecoil reduction: Vertical: 5%\nWeight: 15Hg/3.3lbs"
+"weapon_m320_dy_smoke_desc"		"放出烟雾掩护\n扩散用时: 0.12秒\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.5千克/3.3磅"
 "weapon_m320_stungrenMK3"		"M320 闪光震撼弹"
-"weapon_m320_stungrenMK3_desc"	"Stun Dur: Max 6sec.|Stun Rad: 19m\nBlind: No|Deafen: Yes\nRecoil reduction: Vertical: 5%\nWeight: 17Hg/3.7lbs"
+"weapon_m320_stungrenMK3_desc"	"效果持续时间: 最高6秒 | 效果半径：19m\n致盲: 否 | 致聋: 是\n降低后坐力: 纵向偏移补偿: 5%\n重量: 1.7千克/3.7磅"
 
 //Launchers
-"weapon_rpg7_dy"				"RPG-7"
-"weapon_rpg7_dy_desc"			"Det Dmg: 230|Det Rad: 14.2m\nPenetration Radius: 2.9m | Rockets: 2\nWeight: 78Hg/17.1lbs"
+"weapon_rpg7_dy"				"RPG-7 火箭发射器"
+"weapon_rpg7_dy_desc"			"爆炸伤害: 230 | 爆炸半径: 14.2m\n穿透半径: 2.9m | 携带量: 2\n重量: 7.8千克/17.1磅"
 "weapon_at4_dy"					"AT4 火箭发射器"
-"weapon_at4_dy_desc"			"Det Dmg: 300|Det Rad: 21m\nPen Rad: 5.7m | Rockets: 1\nWeight: 72Hg/15.8lbs"
+"weapon_at4_dy_desc"			"爆炸伤害: 300 | 爆炸半径: 21m\n穿透半径: 5.7m | 携带量: 1\n重量: 7.2千克/15.8磅"
 "weapon_law_dy"					"M72 LAW 火箭发射器"
-"weapon_law_dy_desc"			"Det Dmg: 210|Det Rad: 12.3m\nPen Rad: 1.9m | Rockets: 1\nWeight: 30Hg/5.5lbs"
+"weapon_law_dy_desc"			"爆炸伤害: 210 | 爆炸半径: 12.3m\n穿透半径: 1.9m | 携带量: 1\n重量: 3千克/5.5磅"
 
 //////////////////scopes////////////////////////
 "weapon_upgrade_scope_PKS_07"		"PKS-07 7倍瞄准镜"
-"weapon_upgrade_scope_PKS_07_desc"	"The PKS-07 is a 7x magnification Russian scope."
+"weapon_upgrade_scope_PKS_07_desc"	"7倍俄制瞄准镜"
 
 //////melee///
 
@@ -562,60 +562,60 @@
 
 ////////////////////armor////////////////////////
 
-"gear_nij_2_armor"			"NIJ II Vest"
-"gear_nij_2_armor_desc"			"伤害减少:\n胸部/腹部: 53%\n炸药减伤: 40%\n重量: 2公斤/4.5磅"
+"gear_nij_2_armor"			"NIJ II 防弹衣"
+"gear_nij_2_armor_desc"			"伤害减免:\n胸部/腹部: 53%\n爆炸抵抗: 40%\n重量: 2千克/4.5磅"
 
-"gear_nij_3a_armor"			"NIJ IIIa Vest"
-"gear_nij_3a_armor_desc"		"伤害减少:\n胸部/腹部: 58%\n炸药减伤: 40%\n重量: 3公斤/6.6磅"
+"gear_nij_3a_armor"			"NIJ IIIa 防弹衣"
+"gear_nij_3a_armor_desc"		"伤害减免:\n胸部/腹部: 58%\n爆炸抵抗: 40%\n重量: 3千克/6.6磅"
 
-"gear_SAPI_armor"			"SAPI Plate"
-"gear_SAPI_armor_desc"			"伤害减少:\n胸部: 77% | 腹部: 70%\n炸药减伤: 20%\n重量: 6.6公斤/14.6磅"
+"gear_SAPI_armor"			"SAPI 防弹插板"
+"gear_SAPI_armor_desc"			"伤害减免:\n胸部: 77% | 腹部: 70%\n爆炸抵抗: 20%\n重量: 6.6千克/14.6磅"
 
-"gear_ESAPI_armor"			"E-SAPI Plate"
-"gear_ESAPI_armor_desc"			"伤害减少:\n胸部: 80% | 腹部: 73%\n炸药减伤: 20%\n重量: 7.5公斤/16.6磅"
+"gear_ESAPI_armor"			"E-SAPI 防弹插板"
+"gear_ESAPI_armor_desc"			"伤害减免:\n胸部: 80% | 腹部: 73%\n爆炸抵抗: 20%\n重量: 7.5千克/16.6磅"
 
-"gear_AR500_armor"			"AR500 IV Plate"
-"gear_AR500_armor_desc"			"伤害减少:\n胸部: 83% | 腹部: 76%\n炸药减伤: 20%\n重量: 8.4公斤/18.6磅"
+"gear_AR500_armor"			"AR500 IV 防弹插板"
+"gear_AR500_armor_desc"			"伤害减免:\n胸部: 83% | 腹部: 76%\n爆炸抵抗: 20%\n重量: 8.4千克/18.6磅"
 
 "gear_daps_leba_armor1"		"DAPS-LEBA IIIa"
-"gear_daps_leba_armor1_desc"		"伤害减少:\n手臂: 30% | 腿部: 35%\n重量: 2.8公斤/6.2磅"
+"gear_daps_leba_armor1_desc"		"伤害减免:\n手臂: 30% | 腿部: 35%\n重量: 2.8千克/6.2磅"
 
 "gear_daps_armor1"			"DAPS IIIa"
-"gear_daps_armor1_desc"			"伤害减少:\n手臂: 30%\n重量: 3公斤/0.7磅"
+"gear_daps_armor1_desc"			"伤害减免:\n手臂: 30%\n重量: 3千克/0.7磅"
 
 "gear_leba_armor1"			"LEBA Kevlar IIIa"
-"gear_leba_armor1_desc"			"伤害减少:\n腿部: 35%\n重量: 1.7公斤/3.7磅"
+"gear_leba_armor1_desc"			"伤害减免:\n腿部: 35%\n重量: 1.7千克/3.7磅"
 
 "gear_lw_helmet_sitka"			"US-Mich Helm IIIa Goggles/Sitka"
-"gear_lw_helmet_sitka_desc"			"伤害减少:\nHead: 60%\n重量: 2.2公斤/4.8磅"
+"gear_lw_helmet_sitka_desc"			"伤害减免:\n头部: 60%\n重量: 2.2千克/4.8磅"
 "gear_lw_helmet"				"US-Mich Helm IIIa"
-"gear_lw_helmet_desc"			"伤害减少:\n头部: 60%\n重量: 2.2公斤/4.8磅"
+"gear_lw_helmet_desc"			"伤害减免:\n头部: 60%\n重量: 2.2千克/4.8磅"
 
 "gear_devgru_1"			"Mich-Helm II - DEFAULT"
-"gear_devgru_1_desc"			"Remove won't remove helm\nDamage Reduction:\nHead: 35%\nWeight: 14Hg/3.1磅"
+"gear_devgru_1_desc"			"Remove won't remove helm\nDamage Reduction:\nHead: 35%\n重量: 1.4千克/3.1磅"
 "gear_devgru_2"			"Mich-Helm IIa"
-"gear_devgru_2_desc"			"Default: Mich II 30%\nDamage Reduction:\nUpgrade to: 40%\nWeight: 18Hg/4.0磅"
+"gear_devgru_2_desc"			"Default: Mich II 30%\nDamage Reduction:\nUpgrade to: 40%\n重量: 1.8千克/4.0磅"
 "gear_devgru_3"			"Mich-Helm IIIa"
-"gear_devgru_3_desc"			"Default: Mich II 30%\nDamage Reduction:\nUpgrade to: 45%\nWeight: 22Hg/4.9磅"
+"gear_devgru_3_desc"			"Default: Mich II 30%\nDamage Reduction:\nUpgrade to: 45%\n重量: 2.2千克/4.9磅"
 "gear_bonnie_mask"			"奔尼帽-Sitka"
-"gear_bonnie_mask_desc"			"伤害减少: 无\n重量: 无"
+"gear_bonnie_mask_desc"			"伤害减免: 无\n重量: 无"
 "gear_bonnie_nomask"			"奔尼帽"
-"gear_bonnie_nomask_desc"			"伤害减少: None\n重量: 无"
+"gear_bonnie_nomask_desc"			"伤害减免: 无\n重量: 无"
 "gear_beanie_black"			"黑色奔尼帽"
-"gear_beanie_black_desc"			"伤害减少: 无\n重量: 无"
+"gear_beanie_black_desc"			"伤害减免: 无\n重量: 无"
 "gear_beanie_brown"			"褐色无边帽"
-"gear_beanie_brown_desc"			"伤害减少: 无\n重量: 无"
+"gear_beanie_brown_desc"			"伤害减免: 无\n重量: 无"
 "gear_cap_light"						"SF Cap Light"
-"gear_cap_light_desc"					"伤害减少: 无\n重量: 无"
+"gear_cap_light_desc"					"伤害减免: 无\n重量: 无"
 "gear_cap_light_spec"					"SF Cap Light Spec."
-"gear_cap_light_spec_desc"				"伤害减少: 无\n重量: 无"
+"gear_cap_light_spec_desc"				"伤害减免: 无\n重量: 无"
 "gear_cap_vip_dark"						"SF Cap Dark"
-"gear_cap_vip_dark_desc"				"伤害减少: 无\n重量: 无"
+"gear_cap_vip_dark_desc"				"伤害减免: 无\n重量: 无"
 
 "gear_tcap_light_spec"					"Tactical Cap Light Spec."
-"gear_tcap_light_spec_desc"				"Damage Reduction: None\nWeight: None"
+"gear_tcap_light_spec_desc"				"伤害减免: 无\n重量: 无"
 "gear_tcap_dark_spec"					"Tactical Cap Dark Spec."
-"gear_tcap_dark_spec_desc"				"Damage Reduction: None\nWeight: None"
+"gear_tcap_dark_spec_desc"				"伤害减免: 无\n重量: 无"
 
 //////////////////vest////////////////////////
 "gear_chest"							"Chest"
@@ -648,42 +648,42 @@
 "pistol_bag_2"							"Pistol Rig B"
 "pistol_bag_2_desc"						"2 Vest pouches totalling 4 extra sidearm magazines."
 
-"weapon_upgrade_12_magazine_extended_dy_desc"		"Extend magsize to 12 rounds."
-"weapon_upgrade_30_magazine_extended_dy_desc"		"Extend magsize to 30 rounds."
-"weapon_upgrade_42_magazine_extended_dy_desc"		"Extend magsize to 42 rounds."
-"weapon_upgrade_40_magazine_extended_dy_desc"		"Extend magsize to 40 rounds."
-"weapon_upgrade_75_magazine_extended_dy_desc"		"Extend magsize to 75 round drum."
-"weapon_upgrade_15_magazine_extended_dy_desc"		"Extend magsize to 15 rounds."
+"weapon_upgrade_12_magazine_extended_dy_desc"		"载弹量提高到12发"
+"weapon_upgrade_30_magazine_extended_dy_desc"		"载弹量提高到30发"
+"weapon_upgrade_42_magazine_extended_dy_desc"		"载弹量提高到42发"
+"weapon_upgrade_40_magazine_extended_dy_desc"		"载弹量提高到40发"
+"weapon_upgrade_75_magazine_extended_dy_desc"		"将弹匣更换为75发弹鼓"
+"weapon_upgrade_15_magazine_extended_dy_desc"		"载弹量提高到15发"
 
-"weapon_upgrade_beta_50_dy"							"Beta Magazine"
-"weapon_upgrade_50_magazine_extended_dy_desc"		"Extend magsize to 50 round beta drum."
+"weapon_upgrade_beta_50_dy"							"Beta弹鼓"
+"weapon_upgrade_50_magazine_extended_dy_desc"		"将弹匣更换为50发beta弹鼓"
 
-"weapon_upgrade_beta_75_dy"							"HC Beta Magazine"
-"weapon_upgrade_75_magazine_extended_dy_desc"		"Extends magsize to high capacity 75 round beta drum."
+"weapon_upgrade_beta_75_dy"							"HC Beta弹鼓"
+"weapon_upgrade_75_magazine_extended_dy_desc"		"将弹匣更换为75发高容量beta弹鼓"
 
-"weapon_upgrade_magazine_extended_usp_desc"		"Extends magsize for USP to 18 rounds"
-"weapon_upgrade_magazine_extended_glock18_desc"		"Extends magsize for Glock18 to 33 rounds"
+"weapon_upgrade_magazine_extended_usp_desc"		"将USP的载弹量提高到18发"
+"weapon_upgrade_magazine_extended_glock18_desc"		"将Glock18的载弹量提高到33发"
 
 "weapon_quick_reload_skill"					"快速装弹"
-"weapon_quick_reload_skill_desc"			"缩短15%的装弹速度."
+"weapon_quick_reload_skill_desc"			"缩短15%的装弹速度"
 
 "weapon_quick_draw_holster_skill"				"快速拔枪"
-"weapon_quick_draw_holster_skill_desc"			"缩短15%的拔枪速度."
+"weapon_quick_draw_holster_skill_desc"			"缩短15%的拔枪速度"
 
 "weapon_quick_draw_sling"				"战术枪带"
-"weapon_quick_draw_sling_desc"			"缩短15% 卡宾枪/SMG冲锋枪/步枪 拔出速度."
+"weapon_quick_draw_sling_desc"			"缩短15% 卡宾枪/SMG冲锋枪/步枪 拔出速度"
 
 "fast_bolt_action"				"快速栓动"
-"fast_bolt_action_desc"			"缩短15%的栓动速度."
+"fast_bolt_action_desc"			"缩短15%的栓动速度"
 
 "fast_pump_action"				"快速泵动"
-"fast_pump_action_desc"			"缩短15%的泵动速度."
+"fast_pump_action_desc"			"缩短15%的泵动速度"
 //////////////////gear////////////////////////
 
 "sec_sunglasses"						"Aviators"
 "sec_sunglasses_desc"					"For the incognito operator."
 "op_sunglasses"							"ShooterZ"
-"op_sunglasses_desc"					"If you can block a sun, you can block a gun."
+"op_sunglasses_desc"					"If you can block a sun，you can block a gun."
 "sec_sunglasses_b"						"Authoritators"
 "sec_sunglasses_b_desk"					"Respect. Authority. Authoritators."
 "sec_beard"								"Tactical Beard"
